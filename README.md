@@ -1,7 +1,7 @@
 # Buisness-Anlythics
 Stroke Prediction detection model
 Machine Learning for Cardiovascular Disease Prediction
-Authors: Paula Quintanilla, David Flores, Iñaki Muñoz, Gabriela Baldeón
+Authors: Paula Quintanilla, David Flores, Iñaki Muñoz,
 Date: 02-12-2024
 
 Project Description:
